@@ -1,0 +1,2 @@
+# Tic_Tac_Toe_E20
+In my first programming experience in the Engineering Sciences 020 course at Dartmouth College and the Thayer School of Engineering, I programmed a basic Tic-Tac-Toe game using the C Programming language. This Tic-Tac-Toe game is meant to be an exercise in basic C-programming with a focus on user-interaction and input, pointers, addresses, and file actions. Published during the Spring of 2016.
